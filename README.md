@@ -12,5 +12,6 @@ The features used to predict the target are:
 ## Target ❤️
 - 0--> Healthy Heart
 - 1--> Defected Heart
+### Gender
 0 --> Female 👩
 1 --> Male 👨
